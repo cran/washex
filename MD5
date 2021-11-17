@@ -1,9 +1,9 @@
-8024f5a7b936f3e54cb622c429a829cd *DESCRIPTION
+ffe28267fcb1ec2fb76502e289c7b3f9 *DESCRIPTION
 085fe7871cc75205d758fb95f280cdfe *LICENSE
-e258b768a1782bd1773781109b29a888 *NAMESPACE
+abd4fc9dd56fb7af02c08adb47e0474c *NAMESPACE
 5d4aff98f7129d0419e03329e448d7f0 *R/getAffectedRCW.R
 7805e29f3f0cf9ed9a628e0ee88602ee *R/getAmendments.R
-63aedcdaa15508a22db6b5c33b47a401 *R/getBillSponsors.R
+2f0f35744778157bb272017d559ce4cc *R/getBillSponsors.R
 7ea44c561d73fcf03f5f08176845f072 *R/getCommitteeMembers.R
 818651221398442eeb08aaee8787ef31 *R/getCommittees.R
 567444552822969afbfff63566c34b78 *R/getCurrentStatus.R
@@ -15,9 +15,10 @@ a8ea0f7c9bda534657ceb7d9ecdb9bed *R/getRCWBills.R
 2b5d9857942ca605a717cce2bfe8344a *R/getRollCalls.R
 31e5918b32b14068639c1f871517bf7c *R/getSponsors.R
 f6794bfdf883051370ca47da45f9f93b *R/getStatusChanges.R
-13e48dff81d398482c6752fb8091b812 *R/sysdata.rda
+e3bcaff17bec00aee08dc4e083bc276f *R/sysdata.rda
 66f25d20b47dab417450534ef659edbb *R/utils.R
-f106d74b0d7fd74870ef44c6cc626704 *README.md
+8b01e5a2a5b3b0c682a554cc11fe74e4 *R/washex.r
+b7c072ce618d3a54f51874aa9a7ee942 *README.md
 93a991dda41afece72b4cb90d6a19c58 *man/getAffectedRCW.Rd
 fc972eabb68a1ff106dad093577627ad *man/getAmendments.Rd
 d69bff2a989c49b4a33a294ed4c327cf *man/getBillSponsors.Rd
@@ -32,6 +33,7 @@ af17411b44cd3ced4482c770f5262dba *man/getLegislationByYear.Rd
 e8e8862de36b79114ae069d4aa4c00c8 *man/getRollCalls.Rd
 c2052368e59d0536ef6e4b11479f6a59 *man/getSponsors.Rd
 3fa081439c05cababdb0db0689e5fe33 *man/getStatusChanges.Rd
+ae01eb045ad9f17b4c9730ab0cd1bfe8 *man/washex-package.Rd
 2a8cd8096c9de0e2c3f6a006835b6e0f *tests/testthat.R
 065ba49ca4ba1361027a711fdc304ada *tests/testthat/test-getAffectedRCW.R
 0e6ed07d6ffb1043e120563e835a5205 *tests/testthat/test-getAmendments.R

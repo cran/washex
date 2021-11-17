@@ -9,13 +9,13 @@
 status](https://www.r-pkg.org/badges/version/washex)](https://CRAN.R-project.org/package=washex)
 [![R-CMD-check](https://github.com/rwrandles/washex-r/workflows/R-CMD-check/badge.svg)](https://github.com/rwrandles/washex-r/actions)
 [![Travis build
-status](https://travis-ci.com/rwrandles/washex-r.svg?branch=main)](https://app.travis-ci.com/github/rwrandles/washex-r)
+status](https://travis-ci.com/rwrandles/washex-r.svg?branch=main)](https://api.travis-ci.com/rwrandles/washex-r.svg?branch=main)
 <!-- badges: end -->
 
 The **Wash**ington **Ex**plorer (WashEx) package creates an interface
 between R and the [Washington State Legislative Web
-Services](https://wslwebservices.leg.wa.gov). It serves as a companion to
-[Legislative Explorer: Washington](http://legex.org/wa/process), a
+Services](https://wslwebservices.leg.wa.gov). It serves as a companion
+to [Legislative Explorer: Washington](http://legex.org/wa/process), a
 project developed by John Wilkerson and Rohnin Randles at the University
 of Washington. The package contains functions to retrieve data regarding
 the following:
